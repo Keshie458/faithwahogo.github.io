@@ -1,0 +1,25 @@
+html{
+    background-color:#d3d3d3;
+
+}
+    body{
+       background-color: #008b8b; 
+       margin: 50px; 
+       padding: 110px 110px;
+       border:5px solid #008b8b;
+       font-family: 'Arial', sans-serif;
+    }
+    .p1{
+    color:whitesmoke;
+    width:500px;
+    font-family: 'COPPERPLATE';
+    font-size:xx-large;
+    }
+    .img1{
+        padding: 0px 0px 100px 0px;
+    }
+    h1{
+        padding: 0px 0px 0px 0px;
+        font-family:'Consolas';
+    }
+    
